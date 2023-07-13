@@ -1,1 +1,1 @@
-ossna finch compose demo
+finch compose demo
